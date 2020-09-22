@@ -7,8 +7,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bandprotocol/bandchain/chain/app"
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	"github.com/bandprotocol/bandchain-node/app"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 )
 
 func TestGetSignBytesVerificationMessage(t *testing.T) {

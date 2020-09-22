@@ -10,8 +10,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/rest"
 	"github.com/gorilla/mux"
 
-	clientcmn "github.com/bandprotocol/bandchain/chain/x/oracle/client/common"
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	clientcmn "github.com/bandprotocol/bandchain-node/x/oracle/client/common"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 )
 
 func getParamsHandler(cliCtx context.CLIContext, route string) http.HandlerFunc {

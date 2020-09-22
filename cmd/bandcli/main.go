@@ -22,8 +22,8 @@ import (
 	"github.com/tendermint/go-amino"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/bandprotocol/bandchain/chain/app"
-	bandclient "github.com/bandprotocol/bandchain/chain/client"
+	"github.com/bandprotocol/bandchain-node/app"
+	bandclient "github.com/bandprotocol/bandchain-node/client"
 )
 
 func main() {

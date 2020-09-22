@@ -18,9 +18,9 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 	dbm "github.com/tendermint/tm-db"
 
-	bandapp "github.com/bandprotocol/bandchain/chain/app"
-	"github.com/bandprotocol/bandchain/chain/x/oracle"
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	bandapp "github.com/bandprotocol/bandchain-node/app"
+	"github.com/bandprotocol/bandchain-node/x/oracle"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 )
 
 // App extends the standard Band Cosmos-SDK application with Kafka emitter

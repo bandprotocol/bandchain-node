@@ -3,6 +3,7 @@ module github.com/bandprotocol/bandchain-node
 go 1.13
 
 require (
+	github.com/bandprotocol/bandchain/go-owasm v0.0.0-20200921034017-b807d0514fc4
 	github.com/cosmos/cosmos-sdk v0.39.1
 	github.com/cosmos/go-bip39 v0.0.0-20180819234021-555e2067c45d
 	github.com/ethereum/go-ethereum v1.9.19

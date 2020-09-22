@@ -5,7 +5,7 @@ import (
 	gz "compress/gzip"
 	"testing"
 
-	"github.com/bandprotocol/bandchain/chain/pkg/gzip"
+	"github.com/bandprotocol/bandchain-node/pkg/gzip"
 	"github.com/stretchr/testify/require"
 )
 

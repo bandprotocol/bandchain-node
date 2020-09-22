@@ -21,8 +21,8 @@ import (
 	tmtypes "github.com/tendermint/tendermint/types"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/bandprotocol/bandchain/chain/app"
-	"github.com/bandprotocol/bandchain/chain/emitter"
+	"github.com/bandprotocol/bandchain-node/app"
+	"github.com/bandprotocol/bandchain-node/emitter"
 )
 
 const (

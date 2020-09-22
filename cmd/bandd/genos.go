@@ -13,9 +13,9 @@ import (
 	"github.com/spf13/viper"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/bandprotocol/bandchain/chain/pkg/filecache"
-	"github.com/bandprotocol/bandchain/chain/x/oracle"
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	"github.com/bandprotocol/bandchain-node/pkg/filecache"
+	"github.com/bandprotocol/bandchain-node/x/oracle"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 	"github.com/bandprotocol/bandchain/go-owasm/api"
 )
 

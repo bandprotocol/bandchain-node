@@ -9,7 +9,7 @@ import (
 	"github.com/tendermint/tendermint/crypto/tmhash"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 )
 
 func handleTransaction(c *Context, l *Logger, tx tmtypes.TxResult) {

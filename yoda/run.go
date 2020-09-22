@@ -14,8 +14,8 @@ import (
 	httpclient "github.com/tendermint/tendermint/rpc/client/http"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/bandprotocol/bandchain/chain/pkg/filecache"
-	"github.com/bandprotocol/bandchain/chain/yoda/executor"
+	"github.com/bandprotocol/bandchain-node/pkg/filecache"
+	"github.com/bandprotocol/bandchain-node/yoda/executor"
 )
 
 const (

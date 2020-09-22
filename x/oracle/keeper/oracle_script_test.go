@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bandprotocol/bandchain/chain/x/oracle/testapp"
-	"github.com/bandprotocol/bandchain/chain/x/oracle/types"
+	"github.com/bandprotocol/bandchain-node/x/oracle/testapp"
+	"github.com/bandprotocol/bandchain-node/x/oracle/types"
 	"github.com/bandprotocol/bandchain/go-owasm/api"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bandprotocol/bandchain/chain/yoda"
+	"github.com/bandprotocol/bandchain-node/yoda"
 )
 
 func main() {

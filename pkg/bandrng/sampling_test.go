@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bandprotocol/bandchain/chain/pkg/bandrng"
+	"github.com/bandprotocol/bandchain-node/pkg/bandrng"
 )
 
 func TestChooseOneOne(t *testing.T) {
